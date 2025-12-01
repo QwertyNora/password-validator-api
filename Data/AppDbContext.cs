@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using PasswordValidatorApi.Models;
 
-namespace PasswordValidatorAPI.Data;
+namespace PasswordValidatorApi.Data;
 
 public class AppDbContext : DbContext
 {
